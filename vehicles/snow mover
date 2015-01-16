@@ -28,9 +28,6 @@ Cargo:
     1 ton bulk (1 ton), with a dumper
 
 Notes:
-    Bulldozer 2 tons, Front
-    Dumper 50kg, backfacing
-    2 Search lights, Front and Back (0.5 tons each)
 
 Description:
     Snow mover is a cheap and simple truck aimed for snow clearing and
@@ -42,4 +39,6 @@ Description:
     cheap, sturdy and easy to maintain vehicle.
 
 Armament and Capabilities:
-
+    Bulldozer 2 tons, Front
+    Dumper 50kg, backfacing
+    2 Search lights, Front and Back (0.5 tons each)
