@@ -1,0 +1,30 @@
+Type:             Snow Mover
+Chassis Type:     Wheeled (Medium)
+Mass:             10 tons
+Tech base:        Inner Sphere
+Equipment Rating: ?/?-?-?/?
+Availability:     ?/?-?-?/?
+Production Year:  3025
+Cost: 
+Battle Value:
+
+Equipment                               Mass
+Chassis/Controls:                       2.0
+Engine/Trans:           ICE             3.0
+  Cruise MP:            4
+  Flank MP:             6
+Fuel:         1500 km (Petrochemical)   0.5
+Armor Factor (N/A  ):   N/A             N/A
+                   Internal        Armor
+                        Structure       Value
+Front                   1               0
+R/L Side                1               0
+Rear                    1               0
+
+Crew: 2
+Cargo:
+     1 ton bulk (1 ton)
+
+Notes: Bulldozer 2 tons, Front
+       Dumper 50kg, backfacing
+       2 Search lights, Front and Back (0.5 tons each)
