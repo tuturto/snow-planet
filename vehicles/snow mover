@@ -2,11 +2,13 @@ Type:             Snow Mover
 Chassis Type:     Wheeled (Medium)
 Mass:             10 tons
 Tech base:        Inner Sphere
-Equipment Rating: ?/?-?-?/?
-Availability:     ?/?-?-?/?
+Equipment Rating: C-C-C
+Availability:     X-B-B
 Production Year:  3025
 Cost: 
 Battle Value:
+Manufacturer:     Drago, Ltd
+Primary factory:  Skye
 
 Equipment                               Mass
 Chassis/Controls:                       2.0
@@ -23,8 +25,16 @@ Rear                    1               0
 
 Crew: 2
 Cargo:
-     1 ton bulk (1 ton)
+     1 ton bulk (1 ton), with a dumper
 
 Notes: Bulldozer 2 tons, Front
        Dumper 50kg, backfacing
        2 Search lights, Front and Back (0.5 tons each)
+
+Description: Snow mover is a cheap and simple truck aimed for snow clearing
+             and removal. Two man crew is needed to effectively manage
+             clearing equipment and large searchlights mounted on the roof of
+             the truck.
+
+Armament and Capabilities:
+
