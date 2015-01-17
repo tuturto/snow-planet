@@ -1,0 +1,50 @@
+Type:             Tracked Snow Mover
+Chassis Type:     Tracked (Medium)
+Mass:             25 tons
+Tech base:        Inner Sphere
+Equipment Rating: C-C-C
+Availability:     X-B-B
+Production Year:  3030
+Cost:             228 625
+Battle Value:
+Manufacturer:     Drago, Ltd
+Primary factory:  Skye
+
+Equipment                               Mass
+Chassis/Controls:                       8.0
+Engine/Trans:           ICE             8.0
+  Cruise MP:            3
+  Flank MP:             5
+Fuel:         625 km (Petrochemical)    0.5
+Armor Factor (BAR 4):   31              1.0
+                   Internal        Armor
+                        Structure       Value
+Front                   3               10
+R/L Side                3               7
+Rear                    3               7
+
+Crew: 2
+Cargo:
+    1 ton bulk (1 ton), with a dumper
+
+Notes:
+    Snowmobile, Easy to Maintain
+    Gas Hog
+
+Description:
+    Not satisfied with the original Snow Mover, Drago Ltd set to design an
+    improved version. The new version used tracks and was specifically
+    designed for snow operations. Using the easy to maintain diesel power
+    plant meant that the vehicle was slower than before, with a top speed
+    of 54 km/h and was burning through fuel at a high rate when driven at top
+    speed.
+    
+    Tracked snow mover was fitted with half a ton of BAR 4 armour, that would
+    protect it against accidental glances and falling debris. While not
+    originally designed to work as a bulldozer, tracked snow mover could be used
+    in such an operation too.
+
+Armament and Capabilities:
+    Bulldozer 2 tons, Front
+    Dumper 50kg, backfacing
+    Search light, Front
