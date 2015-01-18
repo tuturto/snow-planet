@@ -19,6 +19,9 @@
 %%
 % Just some sample text
 \usepackage{lipsum}
+\usepackage{geometry}
+
+\geometry{paper=a4paper}
 
 %%
 % For nicely typeset tabular material
@@ -158,11 +161,8 @@ Copyright \copyright\ \the\year\ \thanklessauthor
 \end{fullwidth}
 
 % r.5 contents
+\setcounter{tocdepth}{2}
 \tableofcontents
-
-\listoffigures
-
-\listoftables
 
 %%
 % Start the main matter (normal chapters)
@@ -182,6 +182,7 @@ designed specifically to work in the arctic environment.
 
 \clearpage
 
+\section{Snow Mower}
 \newthought{Snow Mover} is a cheap and simple truck aimed for snow clearing and
 removal. Two man crew is needed to effectively manage clearing equipment
 and large searchlights mounted on the roof of the truck.
@@ -200,7 +201,6 @@ other malfunctions too.
 \begin{center}
 \begin{tabular}{llll}
 \toprule
-\multicolumn{3}{c}{Snow Mover} \\
 Type: & Snow Mover & \\
 Chassis Type: & Wheeled (Medium) & \\
 Mass: & 10 tons & \\
@@ -211,29 +211,87 @@ Production Year: & 3025 & \\
 Cost: & 88 200? & \\
 Battle Value: & & \\
 Manufacturer: & Drago, Ltd & \\
-Primary factory: & Skye & \\
 Equipment & & Mass \\
 \quad Chassis/Controls: & & 2.0 \\
 \quad Engine/Trans: & ICE & 3.0 \\
 \quad Fuel: & 1660 km (Petrochemical) & 0.5 \\
+\quad Speed: & \multicolumn{2}{l}{4/6} \\
 Structure and Armour & & \\
-\quad Armor Factor (N/A ): & N/A & N/A \\
+\quad Armor Factor (N/A): & N/A & N/A \\
 \quad & Internal & Armor \\
 \quad Front & 1 & 0 \\
 \quad R/L Side & 1 & 0 \\
 \quad Rear & 1 & 0 \\
 
-Crew: & & \\
-\quad 2 & & \\
+Armament and Capabilities: & & \\
+\multicolumn{2}{l}{\quad Bulldozer, Front} & 2.0 \\
+\multicolumn{2}{l}{\quad Dumper, backfacing} & 50kg \\
+\multicolumn{2}{l}{\quad 2 Search lights, Front and Back} & 0.5 each \\
+
+\multicolumn{3}{l}{Crew: 2} \\
 Cargo: & & \\
 \multicolumn{3}{l}{\quad 1 ton bulk (1 ton), with a dumper} \\
+
 Notes: & & \\
 \multicolumn{3}{l}{\quad Easy to Maintain, Gas Hog, Poor Performance} \\
 
+\bottomrule
+\end{tabular}
+\end{center}
+\end{minipage}
+
+\clearpage
+\section{Snow Mower}
+\newthought{Not satisfied} with the original Snow Mover, Drago Ltd set to design an
+improved version. The new version used tracks and was specifically
+designed for snow operations. Using the easy to maintain diesel power
+plant meant that the vehicle was slower than before, with a top speed
+of 54 km/h and was burning through fuel at a high rate when driven at top
+speed.
+
+Tracked snow mover was fitted with half a ton of BAR 4 armour, that would
+protect it against accidental glances and falling debris. While not
+originally designed to work as a bulldozer, tracked snow mover could be used
+in such an operation too.
+
+\bigskip
+\begin{minipage}{\textwidth}
+\begin{center}
+\begin{tabular}{llll}
+\toprule
+Type: & Tracked Snow Mover & \\
+Chassis Type: & Tracked (Medium) & \\
+Mass: & 25 tons & \\
+Tech base: & Inner Sphere & \\
+Equipment Rating: & C-C-C & \\
+Availability: & X-B-B & \\
+Production Year: & 3030 & \\
+Cost: & 228 625 & \\
+Battle Value: & & \\
+Manufacturer: & Drago, Ltd & \\
+Equipment & & Mass \\
+\quad Chassis/Controls: & & 8.0 \\
+\quad Engine/Trans: & ICE & 8.0 \\
+\quad Fuel: & 625 km (Petrochemical) & 0.5 \\
+\quad Speed: & \multicolumn{2}{l}{3/5} \\
+Structure and Armour & & \\
+\quad Armor Factor (BAR 4): & 31 & 1.0 \\
+\quad & Internal & Armor \\
+\quad Front & 3 & 10 \\
+\quad R/L Side & 3 & 7 \\
+\quad Rear & 3 & 7 \\
+
 Armament and Capabilities: & & \\
-\multicolumn{3}{l}{\quad Bulldozer 2 tons, Front} \\
-\multicolumn{3}{l}{\quad Dumper 50kg, backfacing} \\
-\multicolumn{3}{l}{\quad 2 Search lights, Front and Back (0.5 tons each)} \\
+\multicolumn{2}{l}{\quad Bulldozer, Front} & 2.0 \\
+\multicolumn{2}{l}{\quad Dumper, backfacing} & 50kg \\
+\multicolumn{2}{l}{\quad Search light, Front} & 0.5 \\
+
+\multicolumn{3}{l}{Crew: 2} \\
+Cargo: & & \\
+\multicolumn{3}{l}{\quad 1 ton bulk (1 ton), with a dumper} \\
+
+Notes: & & \\
+\multicolumn{3}{l}{\quad Snowmobile, Easy to Maintain, Gas Hog} \\
 
 \bottomrule
 \end{tabular}
