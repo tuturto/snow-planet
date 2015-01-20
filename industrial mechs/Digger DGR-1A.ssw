@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding ="UTF-8"?>
-<mech name="Digger" model="DGR-1" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
+<mech name="Digger" model="DGR-1A" tons="25" omnimech="FALSE" solaris7id="0" solaris7imageid="0" sswimage="">
     <ssw_savefile_version>3</ssw_savefile_version>
     <battle_value>213</battle_value>
     <cost>984052.0833333333</cost>
@@ -34,7 +34,7 @@
     </armor>
     <baseloadout fcsa4="FALSE" fcsa5="FALSE" fcsapollo="FALSE">
         <source></source>
-        <info>Digger DGR-1 25t, 4/6/0, Std FE, Ind; 2.5T/45% Armor; 10 SHS; 1 BckHo, 1 SrchLt, 1 RckCut</info>
+        <info>Digger DGR-1A 25t, 4/6/0, Std FE, Ind; 2.5T/45% Armor; 10 SHS; 1 BckHo, 1 SrchLt, 1 RckCut</info>
         <battleforce pv="2" wt="1" mv="4" s="0" m="0" l="0" e="0" ov="0" armor="1" internal="2" abilities="MEL, SRCH, ENE, SRCH" />
         <actuators lla="TRUE" lh="FALSE" rla="TRUE" rh="FALSE"/>
         <clancase>FALSE</clancase>
