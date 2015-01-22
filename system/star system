@@ -1,0 +1,169 @@
+star type: K
+Sub type: 0
+Mass: 0.8 Sol
+
+Orbital slots: 9
+1: 0.32 AU - Gas giant
+2: 0.56 AU - Terrestrial
+3: 0.8 AU - Terrestrial
+4: 1.28 AU - Terrestrial
+5: 2.24 AU - Ice Giant
+6: 4.16 AU - Ice Giant
+7: 8.0 AU - Terrestrial
+8: 15.68 AU - Gas Giant
+9: 31.04 AU - Dwarf Terrestrial
+
+
+Star System Data
+System Name: Kiiminki
+Star Name: Kiiminki
+Star Type: K0V
+Recharge Time: 191 hours
+Proximity Limit: 549 564 113
+Transit Time: 5.48 days
+Number of Planets: 9
+Orbits: 
+  1: 0.32 AU - Gas giant
+  2: 0.56 AU - Terrestrial *
+  3: 0.8 AU - Terrestrial *
+  4: 1.28 AU - Terrestrial
+  5: 2.24 AU - Ice Giant
+  6: 4.16 AU - Ice Giant
+  7: 8.0 AU - Terrestrial
+  8: 15.68 AU - Gas Giant
+  9: 31.04 AU - Dwarf Terrestrial
+
+Planetary Data
+Planet Name:
+Planet Type: Gas Giant
+Position in System: 1
+Moons:
+Diameter: 130 000 km
+Density: 1.2 g/cm3
+Surface Gravity:
+Day Length: 13 h
+Habitable: No
+  Atmospheric Density:
+  Surface Temperature:
+  Percent Surface Water:
+  Highest Life Form:
+
+Planetary Data
+Planet Name:
+Planet Type: Terrestrial
+Position in System: 2
+Moons:
+Diameter: 9 500 km
+Density: 4.18 g/cm3
+Surface Gravity: 
+Day Length: 18 h
+Habitable: No
+  Atmospheric Density: Trace
+  Surface Temperature: Medium
+  Percent Surface Water: 0%
+  Highest Life Form:
+
+Planetary Data
+Planet Name: Kiiminki Prime
+Planet Type: Terrestrial
+Position in System: 3
+Moons:
+Diameter: 12 500 km
+Density: 4.18 g/cm3
+Surface Gravity:
+Day Length: 25 h
+Habitable: Yes
+  Atmospheric Density: Normal
+  Surface Temperature: Low
+  Percent Surface Water: 70%
+  Highest Life Form: Mammals
+
+Planetary Data
+Planet Name:
+Planet Type: Terrestrial
+Position in System: 4
+Moons:
+Diameter:
+Density: 
+Surface Gravity:
+Day Length:
+Habitable:
+  Atmospheric Density:
+  Surface Temperature:
+  Percent Surface Water:
+  Highest Life Form:
+
+Planetary Data
+Planet Name:
+Planet Type: Ice Giant
+Position in System: 5
+Moons:
+Diameter:
+Density: 
+Surface Gravity:
+Day Length:
+Habitable:
+  Atmospheric Density:
+  Surface Temperature:
+  Percent Surface Water:
+  Highest Life Form:
+
+Planetary Data
+Planet Name:
+Planet Type: Ice Giant
+Position in System: 6
+Moons:
+Diameter:
+Density: 
+Surface Gravity:
+Day Length:
+Habitable:
+  Atmospheric Density:
+  Surface Temperature:
+  Percent Surface Water:
+  Highest Life Form:
+
+Planetary Data
+Planet Name:
+Planet Type: Terrestrial
+Position in System: 7
+Moons:
+Diameter:
+Density: 
+Surface Gravity:
+Day Length:
+Habitable:
+  Atmospheric Density:
+  Surface Temperature:
+  Percent Surface Water:
+  Highest Life Form:
+
+Planetary Data
+Planet Name:
+Planet Type: Gas Giant
+Position in System: 8
+Moons:
+Diameter:
+Density: 
+Surface Gravity:
+Day Length:
+Habitable:
+  Atmospheric Density:
+  Surface Temperature:
+  Percent Surface Water:
+  Highest Life Form:
+  
+Planetary Data
+Planet Name:
+Planet Type: Dwarf Terrestrial
+Position in System: 9
+Moons:
+Diameter:
+Density: 
+Surface Gravity:
+Day Length:
+Habitable:
+  Atmospheric Density:
+  Surface Temperature:
+  Percent Surface Water:
+  Highest Life Form:
