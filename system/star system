@@ -24,8 +24,8 @@ Transit Time: 5.48 days
 Number of Planets: 9
 Orbits: 
   1: 0.32 AU - Gas giant
-  2: 0.56 AU - Terrestrial *
-  3: 0.8 AU - Terrestrial *
+  2: 0.56 AU - Terrestrial
+  3: 0.8 AU - Terrestrial
   4: 1.28 AU - Terrestrial
   5: 2.24 AU - Ice Giant
   6: 4.16 AU - Ice Giant
@@ -37,13 +37,15 @@ Planetary Data
 Planet Name: Jänni
 Planet Type: Gas Giant
 Position in System: 1
-Moons:
+Moons: 3
 Diameter: 130 000 km
 Density: 1.2 g/cm3
-Surface Gravity:
+Surface Gravity: 2.2 G
 Day Length: 13 h
+Year Length: 0.20 terran years
 Habitable: No
-  Atmospheric Density:
+  Atmospheric Density: N/A
+  Atmosphere Composition: Hydrogen, Helium
   Surface Temperature:
   Percent Surface Water:
   Highest Life Form:
@@ -52,14 +54,16 @@ Planetary Data
 Planet Name: Kakkuri
 Planet Type: Terrestrial
 Position in System: 2
-Moons:
+Moons: 0
 Diameter: 9 500 km
 Density: 4.18 g/cm3
-Surface Gravity: 
+Surface Gravity: 0.57 G
 Day Length: 18 h
+Year Length: 0.47 terran years
 Habitable: No
-  Atmospheric Density: Trace
-  Surface Temperature: Medium
+  Atmospheric Density: Low
+  Atmosphere Composition: Nitrogen, Carbon Dioxide
+  Surface Temperature: 317K
   Percent Surface Water: 0%
   Highest Life Form:
 
@@ -67,14 +71,16 @@ Planetary Data
 Planet Name: Kiiminki Prime / Kuolimo
 Planet Type: Terrestrial
 Position in System: 3
-Moons:
+Moons: No
 Diameter: 12 500 km
 Density: 4.18 g/cm3
-Surface Gravity:
+Surface Gravity: 0.74 G
 Day Length: 25 h
+Year Length: 0.80 terran years
 Habitable: Yes
   Atmospheric Density: Normal
-  Surface Temperature: Low
+  Atmosphere Composition: Nitrogen, Oxygen
+  Surface Temperature: 265K
   Percent Surface Water: 70%
   Highest Life Form: Mammals
 
@@ -82,28 +88,32 @@ Planetary Data
 Planet Name: Jalanti
 Planet Type: Terrestrial
 Position in System: 4
-Moons:
-Diameter:
-Density: 
-Surface Gravity:
-Day Length:
-Habitable:
-  Atmospheric Density:
-  Surface Temperature:
-  Percent Surface Water:
+Moons: 2
+Diameter: 11 500 km
+Density: 6.33 g/cm3
+Surface Gravity: 1.04 G
+Day Length: 24 h
+Year Length: 1.62 terran years
+Habitable: No
+  Atmospheric Density: Low
+  Atmosphere Composition: Ammonia
+  Surface Temperature: 210K
+  Percent Surface Water: 0%
   Highest Life Form:
 
 Planetary Data
 Planet Name: Iso-Lankko
 Planet Type: Ice Giant
 Position in System: 5
-Moons:
-Diameter:
-Density: 
-Surface Gravity:
-Day Length:
-Habitable:
+Moons: 9
+Diameter: 45 000 km
+Density: 1.7 g/cm3
+Surface Gravity: 1.09 G
+Day Length: 15 h
+Year Length: 3.76 terran years
+Habitable: No
   Atmospheric Density:
+  Atmosphere Composition: 
   Surface Temperature:
   Percent Surface Water:
   Highest Life Form:
@@ -112,13 +122,15 @@ Planetary Data
 Planet Name: Keyritty
 Planet Type: Ice Giant
 Position in System: 6
-Moons:
-Diameter:
-Density: 
-Surface Gravity:
-Day Length:
-Habitable:
+Moons: 10
+Diameter: 35 000 km
+Density: 1.9 g/cm3
+Surface Gravity: 0.94 G
+Day Length: 13 h
+Year Length: 9.50 terran years
+Habitable: No
   Atmospheric Density:
+  Atmosphere Composition: Methane, Ammonia
   Surface Temperature:
   Percent Surface Water:
   Highest Life Form:
@@ -127,28 +139,32 @@ Planetary Data
 Planet Name: Meiko
 Planet Type: Terrestrial
 Position in System: 7
-Moons:
-Diameter:
-Density: 
-Surface Gravity:
-Day Length:
-Habitable:
-  Atmospheric Density:
-  Surface Temperature:
-  Percent Surface Water:
+Moons: 4
+Diameter: 14 500 km
+Density: 4.78 g/cm3
+Surface Gravity: 0.98 G
+Day Length: 22 h
+Year Length: 25.34 terran years
+Habitable: No
+  Atmospheric Density: Very High
+  Atmosphere Composition: Carbon Dioxide, Nitrogen
+  Surface Temperature: 737K
+  Percent Surface Water: 0%
   Highest Life Form:
 
 Planetary Data
 Planet Name: Maintainen
 Planet Type: Gas Giant
 Position in System: 8
-Moons:
-Diameter:
-Density: 
-Surface Gravity:
-Day Length:
-Habitable:
+Moons: 16
+Diameter: 70 000 km
+Density: 1.0 g/cm3
+Surface Gravity: 1.00 G
+Day Length: 12 h
+Year Length: 69.55 terran years
+Habitable: No
   Atmospheric Density:
+  Atmosphere Composition: Hydrogen, Helium
   Surface Temperature:
   Percent Surface Water:
   Highest Life Form:
@@ -157,13 +173,15 @@ Planetary Data
 Planet Name: Kuorinka
 Planet Type: Dwarf Terrestrial
 Position in System: 9
-Moons:
-Diameter:
-Density: 
-Surface Gravity:
-Day Length:
-Habitable:
-  Atmospheric Density:
-  Surface Temperature:
-  Percent Surface Water:
+Moons: 0
+Diameter: 1 800 km
+Density: 1.0 g/cm3
+Surface Gravity: 0.03 G
+Day Length: 24 h
+Year Length: 193.70 terran years
+Habitable: No
+  Atmospheric Density: Vacuum
+  Atmosphere Composition: 
+  Surface Temperature: 42K
+  Percent Surface Water: 0%
   Highest Life Form:
