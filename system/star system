@@ -19,7 +19,7 @@ System Name: Kiiminki
 Star Name: Kiiminki
 Star Type: K0V
 Recharge Time: 191 hours
-Proximity Limit: 549 564 113
+Proximity Limit: 549 564 113 km
 Transit Time: 5.48 days
 Number of Planets: 9
 Orbits: 
@@ -37,6 +37,7 @@ Planetary Data
 Planet Name: Jänni
 Planet Type: Gas Giant
 Position in System: 1
+Orbit: 0.32 AU
 Moons: 3
 Diameter: 130 000 km
 Density: 1.2 g/cm3
@@ -54,6 +55,7 @@ Planetary Data
 Planet Name: Kakkuri
 Planet Type: Terrestrial
 Position in System: 2
+Orbit: 0.56 AU
 Moons: 0
 Diameter: 9 500 km
 Density: 4.18 g/cm3
@@ -71,6 +73,7 @@ Planetary Data
 Planet Name: Kiiminki Prime / Kuolimo
 Planet Type: Terrestrial
 Position in System: 3
+Orbit: 0.8 AU
 Moons: No
 Diameter: 12 500 km
 Density: 4.18 g/cm3
@@ -88,6 +91,7 @@ Planetary Data
 Planet Name: Jalanti
 Planet Type: Terrestrial
 Position in System: 4
+Orbit: 1.28 AU
 Moons: 2
 Diameter: 11 500 km
 Density: 6.33 g/cm3
@@ -105,6 +109,7 @@ Planetary Data
 Planet Name: Iso-Lankko
 Planet Type: Ice Giant
 Position in System: 5
+Orbit: 2.24 AU
 Moons: 9
 Diameter: 45 000 km
 Density: 1.7 g/cm3
@@ -122,6 +127,7 @@ Planetary Data
 Planet Name: Keyritty
 Planet Type: Ice Giant
 Position in System: 6
+Orbit: 4.16 AU
 Moons: 10
 Diameter: 35 000 km
 Density: 1.9 g/cm3
@@ -139,6 +145,7 @@ Planetary Data
 Planet Name: Meiko
 Planet Type: Terrestrial
 Position in System: 7
+Orbit: 8.0 AU
 Moons: 4
 Diameter: 14 500 km
 Density: 4.78 g/cm3
@@ -156,6 +163,7 @@ Planetary Data
 Planet Name: Maintainen
 Planet Type: Gas Giant
 Position in System: 8
+Orbit: 15.68 AU
 Moons: 16
 Diameter: 70 000 km
 Density: 1.0 g/cm3
@@ -173,6 +181,7 @@ Planetary Data
 Planet Name: Kuorinka
 Planet Type: Dwarf Terrestrial
 Position in System: 9
+Orbit: 31.04 AU
 Moons: 0
 Diameter: 1 800 km
 Density: 1.0 g/cm3
