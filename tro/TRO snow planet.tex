@@ -131,6 +131,7 @@
 \newcommand{\doccounter}[1]{\texttt{#1}\index{#1 counter@\texttt{#1} counter}}
 
 \usepackage{fancybox}
+\usepackage{multirow}
 
 % Generates the index
 \usepackage{makeidx}
@@ -184,6 +185,7 @@ Copyright \copyright\ \the\year\ \thanklessauthor
 \newthought{Kiiminki} is a star.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{llll}
@@ -206,12 +208,15 @@ Star Type: & \multicolumn{3}{l}{K0V} \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Stellar Data of Kiiminki}
+\end{table}
 
 \section{J\"{a}nni}
 
 \newthought{J\"{a}nni} is the first planet of Kiiminki system.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -237,12 +242,15 @@ Habitable: & No \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Planetary Data of J\"{a}nni}
+\end{table}
 
 \section{Kakkuri}
 
 \newthought{Kakkuri} is the second planet of Kiiminki system.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -268,6 +276,8 @@ Habitable: & No \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Planetary Data of Kakkuri}
+\end{table}
 
 \section{Kuolimo}
 
@@ -288,6 +298,7 @@ structures are located outside of the equator band, but they tend to
 be rarer.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -322,6 +333,8 @@ Notes: & \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Planetary Data of Kuolimo}
+\end{table}
 
 \section{Jalanti}
 
@@ -340,6 +353,7 @@ is generally around 50 000. The mining station isn't fully
 self-sufficient, but relies on materials sent from the Kiiminki Prime.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -374,12 +388,15 @@ Notes: & \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Planetary Data of Jalanti}
+\end{table}
 
 \section{Iso-Lankko}
 
 \newthought{Iso-Lankko} is the fifth planet of Kiiminki system.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -405,6 +422,8 @@ Habitable: & No \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Planetary Data of Iso-Lankko}
+\end{table}
 
 
 \section{Keyritty}
@@ -412,6 +431,7 @@ Habitable: & No \\
 \newthought{Keyritty} is the sixth planet of Kiiminki system.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -437,6 +457,8 @@ Habitable: & No \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Planetary Data of Keyritty}
+\end{table}
 
 
 \section{Meiko}
@@ -444,6 +466,7 @@ Habitable: & No \\
 \newthought{Meiko} is the seventh planet of Kiiminki system.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -469,13 +492,15 @@ Habitable: & No \\
 \end{tabular}
 \end{center}
 \end{minipage}
-
+\caption{Planetary Data of Meiko}
+\end{table}
 
 \section{Maintainen}
 
 \newthought{Maintainen} is the eigth planet of Kiiminki system.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -501,6 +526,8 @@ Habitable: & No \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Planetary Data of Maintainen}
+\end{table}
 
 
 \section{Kuorinka}
@@ -518,6 +545,7 @@ is so far from the center of the star system and temperature is rather
 low.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
@@ -543,7 +571,8 @@ Habitable: & No \\
 \end{tabular}
 \end{center}
 \end{minipage}
-
+\caption{Planetary Data of Kuorinka}
+\end{table}
 
 
 \chapter{Fifty Words for Snow}
@@ -611,22 +640,27 @@ standard force composition exists, that are often used as the base of
 more specific force.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{ll}
 \toprule
-\multicolumn{2}{l}{Standard Division Organisation} \\
-\midrule
 Division Type & Composition \\
 \midrule
-BattleMech          & 2 BattleMech Regiments and 1 Mechanised Infantry Regiment \\
-Armor Division      & 2 Armor Regiments and 1 Mechanised Infantry Regiment \\
-Mechanised Infantry & 3 Mechanised Infantry Regiments and 1 BattleMech company\\
-Infantry            & 3 Infantry Regiments and 1 armor company \\
+\multirow{2}{*}[0.75em]{BattleMech}          & 2 BattleMech Regiments \\ 
+                                           & 1 Mechanised Infantry Regiment \\
+\multirow{2}{*}[0.75em]{Armor Division}      & 2 Armor Regiments \\
+                                           & 1 Mechanised Infantry Regiment \\
+\multirow{2}{*}[0.75em]{Mechanised Infantry} & 3 Mechanised Infantry Regiments \\
+                                           & 1 BattleMech company \\
+\multirow{2}{*}[0.75em]{Infantry}            & 3 Infantry Regiments \\
+                                           & 1 armor company \\
 \bottomrule
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Standard Division Organisation}
+\end{table}
 
 \newthought{BattleMechs} are hard to obtain and maintain, so they are
 rarely fielded in big numbers. Usually they are tasked to serve as a
@@ -635,12 +669,11 @@ infantry. BattleMechs are used to strike through the enemy lines and
 mechanised infantry with the help of armors exploit the opening.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{lll}
 \toprule
-\multicolumn{3}{l}{Standard BattleMech Organisation} \\
-\midrule
 Unit & Component Units & Total Strength \\
 \midrule
 Lance     & -            & 4 BattleMechs \\
@@ -651,6 +684,8 @@ Regiment  & 3 Battalions & 108 BattleMechs \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Standard BattleMech Organisation}
+\end{table}
 
 \newthought{AeroSpace units} are sort of an exception in the KAF. 
 \marginnote{Maintainen has long been a proving ground for AeroSpace
@@ -662,12 +697,11 @@ are the surgical knife that a skilled commander uses to carve the battle
 theater to his liking.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{lll}
 \toprule
-\multicolumn{3}{l}{Standard AeroSpace Unit Organisation} \\
-\midrule
 Unit & Component Units & Total Strength \\
 \midrule
 Lance    & -           & 2 AeroSpace Fighters \\
@@ -678,6 +712,8 @@ Wing     & 3 Regiments & 54 AeroSpace Fighters \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Standard AeroSpace Organisation}
+\end{table}
 
 \newthought{Armor forces} are the bread and butter of KAF. 
 \marginnote{There is a long standing tradition that at least two armor
@@ -694,12 +730,11 @@ way as AeroSpace assets are. BattleMechs are even more versatile than
 armor units, but much more expensive and rarer.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{lll}
 \toprule
-\multicolumn{3}{l}{Standard Armor Organisation} \\
-\midrule
 Unit & Component Units & Total Strength \\
 \midrule
 Lance     & -            & 4 Vehicles \\
@@ -710,6 +745,8 @@ Regiment  & 3 Battalions & 108 Vehicles \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Standard Armor Organisation}
+\end{table}
 
 \newthought{Mechanized and regular infantry} both use similar force
 compositions. The main difference is that the mechanized infantry has
@@ -726,6 +763,7 @@ and their vehicles also provide cover from the elements. Close
 co-operation with armor units is often trained.
 
 \bigskip
+\begin{table}
 \begin{minipage}{\textwidth}
 \begin{center}
 \begin{tabular}{lll}
@@ -743,6 +781,8 @@ Regiment  & 4 Battalions & 1920 Troops \\
 \end{tabular}
 \end{center}
 \end{minipage}
+\caption{Standard Infantry Organisation}
+\end{table}
 
 \section{1st Arctic Strikers}
 
