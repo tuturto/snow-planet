@@ -1,0 +1,59 @@
+Snow Leopard SLP-1
+
+Mass: 50 tons
+Tech Base: Inner Sphere
+Motive Type: Tracked
+Rules Level: Tournament Legal
+Era: Succession Wars
+Tech Rating/Era Availability: D/X-E-D-A
+Production Year: 0
+Cost: 1,967,500 C-Bills
+Battle Value: 959
+
+Power Plant:  200 Fusion Engine
+Cruise Speed: 43.2 km/h
+Flanking Speed: 64.8 km/h
+Armor:  Standard Armor
+Armament:
+    1  PPC
+    1  LRM-10
+    1  Machine Gun
+Manufacturer: 
+    Primary Factory: 
+Communications System: 
+Targeting and Tracking System: 
+
+================================================================================
+Equipment           Type                         Rating                   Mass  
+--------------------------------------------------------------------------------
+Internal Structure: Standard                      25 points                5.00
+Engine:             Fusion Engine                200                      13.00
+    Cruise MP:  4
+    Flank MP:   6
+Heat Sinks:         Single Heat Sink             10                        0.00
+Control Equipment:                                                         2.50
+Lift Equipment:                                                            0.00
+Turret:                                                                    1.00
+Armor:              Standard Armor               AV - 208                 13.00
+
+                                                      Armor      
+                                                      Factor     
+                                               Front     52        
+                                          Left/Right   41/41        
+                                              Turret     40        
+                                                Rear     34        
+
+================================================================================
+Equipment                                 Location    Heat     Spaces     Mass  
+--------------------------------------------------------------------------------
+LRM-10                                       FR        4         1         5.00
+PPC                                          T         10        1         7.00
+Machine Gun                                  T         0         1         0.50
+@LRM-10 (24)                                 BD        -         0         2.00
+@MG (200)                                    BD        -         0         1.00
+
+BattleForce Statistics
+MV      S (+0)  M (+2)  L (+4)  E (+6)   Wt.   Ov   Armor:      7    Points: 10
+4t         2       2       2       0      2     0   Structure:  3
+Special Abilities: TUR(1/1/1), IF 1
+
