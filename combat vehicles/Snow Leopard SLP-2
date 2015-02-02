@@ -1,0 +1,56 @@
+Snow Leopard SLP-2
+
+Mass: 50 tons
+Tech Base: Inner Sphere
+Motive Type: Tracked
+Rules Level: Tournament Legal
+Era: Succession Wars
+Tech Rating/Era Availability: D/X-D-C-A
+Production Year: 0
+Cost: 955,500 C-Bills
+Battle Value: 775
+
+Power Plant:  150 I.C.E.
+Cruise Speed: 32.4 km/h
+Flanking Speed: 54.0 km/h
+Armor:  Standard Armor
+Armament:
+    1  Large Laser
+    1  Medium Laser
+Manufacturer: 
+    Primary Factory: 
+Communications System: 
+Targeting and Tracking System: 
+
+================================================================================
+Equipment           Type                         Rating                   Mass  
+--------------------------------------------------------------------------------
+Internal Structure: Standard                      25 points                5.00
+Engine:             I.C.E. Engine                150                      11.00
+    Cruise MP:  3
+    Flank MP:   5
+Heat Sinks:         Single Heat Sink             11                       11.00
+Control Equipment:                                                         2.50
+Lift Equipment:                                                            0.00
+Power Amplifiers:                                                          1.00
+Turret:                                                                    1.00
+Armor:              Standard Armor               AV - 200                 12.50
+
+                                                      Armor      
+                                                      Factor     
+                                               Front     48        
+                                          Left/Right   40/40        
+                                              Turret     40        
+                                                Rear     32        
+
+================================================================================
+Equipment                                 Location    Heat     Spaces     Mass  
+--------------------------------------------------------------------------------
+Large Laser                                  T         8         1         5.00
+Medium Laser                                 T         3         1         1.00
+
+BattleForce Statistics
+MV      S (+0)  M (+2)  L (+4)  E (+6)   Wt.   Ov   Armor:      7    Points: 8
+3t         2       2       0       0      2     0   Structure:  3
+Special Abilities: ENE, EE, TUR(2/2/0)
+
