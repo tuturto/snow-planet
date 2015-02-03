@@ -1,0 +1,54 @@
+Protector PTR-1
+
+Mass: 60 tons
+Tech Base: Inner Sphere
+Motive Type: Tracked
+Rules Level: Tournament Legal
+Era: Clan Invasion
+Tech Rating/Era Availability: E/X-X-E-A
+Production Year: 3068
+Cost: 2,484,000 C-Bills
+Battle Value: 813
+
+Power Plant:  180 Fusion Engine
+Cruise Speed: 32.4 km/h
+Flanking Speed: 54.0 km/h
+Armor:  Standard Armor
+Armament:
+    4  LB 2-X ACs
+Manufacturer: 
+    Primary Factory: 
+Communications System: 
+Targeting and Tracking System: 
+
+================================================================================
+Equipment           Type                         Rating                   Mass  
+--------------------------------------------------------------------------------
+Internal Structure: Standard                      30 points                6.00
+Engine:             Fusion Engine                180                      10.50
+    Cruise MP:  3
+    Flank MP:   5
+Heat Sinks:         Single Heat Sink             10                        0.00
+Control Equipment:                                                         3.00
+Lift Equipment:                                                            0.00
+Turret:                                                                    2.50
+Armor:              Standard Armor               AV - 208                 13.00
+
+                                                      Armor      
+                                                      Factor     
+                                               Front     51        
+                                          Left/Right   41/41        
+                                              Turret     42        
+                                                Rear     33        
+
+================================================================================
+Equipment                                 Location    Heat     Spaces     Mass  
+--------------------------------------------------------------------------------
+4 LB 2-X ACs                                 T         4         4        24.00
+@LB 2-X (Cluster) (45)                       BD        -         0         1.00
+
+BattleForce Statistics
+MV      S (+0)  M (+2)  L (+4)  E (+6)   Wt.   Ov   Armor:      7    Points: 8
+3t         1       1       1       0      3     0   Structure:  3
+Special Abilities: TUR(1/1/1)
+
